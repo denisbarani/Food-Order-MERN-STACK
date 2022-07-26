@@ -23,3 +23,4 @@ yarn-error.log*
 #backend
 *.env
 /.env
+readMe2.md
